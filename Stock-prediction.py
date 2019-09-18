@@ -5,9 +5,6 @@ import datetime
 import pandas_datareader.data as web
 from pandas import Series, DataFrame
 
-#change
-asdfasdf
-
 #Importing stock data from YAHOO FINANCE
 #=======================================
 
